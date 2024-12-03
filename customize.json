@@ -2,7 +2,8 @@
   "greeting": "生日快乐",
   "name": "爸爸",
   "greetingText": "年年今日，岁岁今朝",
-  "wishText": "鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。",
+  "wishText": "老夫聊发少年狂，左牵黄，右擎苍，锦帽貂裘，千骑卷平冈。为报倾城随太守，亲射虎，看孙郎。
+酒酣胸胆尚开张。鬓微霜，又何妨！持节云中，何日遣冯唐？会挽雕弓如满月，西北望，射天狼。",
   "imagePath": "img/father.png",
   "text1": "今天是你的生日!!! :D",
   "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
@@ -17,7 +18,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "生日快乐啊!",
-  "outroText": "我希望你喜欢这个小小的惊喜!",
+  "outroText": "",
   "replayText": "曾记否，到中流击水，浪遏飞舟？",
   "outroSmiley": ":)"
 }
